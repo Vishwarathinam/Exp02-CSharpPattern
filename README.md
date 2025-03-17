@@ -1,4 +1,5 @@
-# Exp02-CSharpPattern
+
+<H1 ALIGN =CENTER>Exp02-CSharpPattern</H1>
 
 ## Aim:
  To write the C# program to print Pascal's triangle.
